@@ -4,7 +4,7 @@ The Digital Front Door Component Library is a companion toolkit to the [Chime St
 
 This guide helps to:
 
-- Helps you to undersstand the different building blocks of the Chime Starter and how to use them
+- Helps you to understand the different building blocks of the Chime Starter and how to use them
 - Provides HTML/CSS examples of components if you want to build addition page templates
 - Provides a framework for documentating additional components/templates you wish to develop for the site
 
