@@ -1,12 +1,12 @@
 # Site settings
-title: DFD Component Library
-email: norris@codeforamerica.org
+title: Cultural Division Component Library
+email: mttwhlly@icloud.com
 description: >
-  A Component Library for City Websites
+  A Component Library for Broward Cultural Division Website 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "/" # the base hostname & protocol for your site
 permalink: /:categories/:title/
-city: "Digital Front Door"
+city: "Broward Cultural Division"
 
 # Build settings
 markdown: kramdown
