@@ -9,6 +9,8 @@ order: 0
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="A starter kit for government sites built with the Chime CMS
   ">
+  <script src="https://use.typekit.net/ruo2kru.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="stylesheet" href="/css/main.css">
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600' rel='stylesheet' type='text/css'>

@@ -1,6 +1,7 @@
 ---
 ---
 
+// Imports
 @import 'vendor/bourbon/bourbon';
 @import 'core/defaults';
 @import 'core/utilities';
@@ -18,7 +19,7 @@
 			font-family: $font-sans;
 			position: relative;
 			.subtitle {
-				font-weight: 400;
+				font-weight: 300;
 				display: block;
 				@include media($tablet-up) {
 					display: inline;
@@ -142,7 +143,7 @@
 			overflow-y: hidden;
 			code {
 				background-color: transparent;
-			}			
+			}
 		}
 	}
 
