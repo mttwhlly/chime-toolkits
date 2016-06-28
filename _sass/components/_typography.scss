@@ -8,7 +8,7 @@ body {
 	font-size: $base-font-size;
 	-webkit-font-smoothing: antialiased;
 	font-weight: 300;
-	color: $color-grey-800;
+	color: $color-grey-700;
 }
 
 p {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 	&:first-child {
 		margin-top: 0;
 	}
-	color: #000;
+	color: $color-grey-800;
 }
 
 // Create heading mixins 
@@ -153,9 +153,10 @@ h6, .h6 {
 .lead-in {
 	font-size: $h2-font-size;
 	font-family: $font-sans;
-	color: $color-grey-800;
+	color: $color-grey-700;
 	margin-bottom: 2em;
     font-style: italic;
+    letter-spacing: -1px;
 }
 
 .address {

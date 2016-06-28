@@ -11,7 +11,8 @@ order: 2
   ">
   
   <link rel="stylesheet" href="/css/main.css">
-  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
+  <script src="https://use.typekit.net/ruo2kru.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="canonical" href="//articles/public-safety/emergency-services/example-article/">
@@ -24,12 +25,12 @@ order: 2
   </head>
   <body >
     <div class="disclaimer">
-      <p><b>This site is a working beta</b>. Information found here may be incomplete and inaccurate. <a href="">Learn more</a></p>
+      <p><b>This site is a working beta</b>. Information found here may be incomplete and inaccurate. <a href="/">Learn more</a></p>
     </div>
     <header class="global-header" role="banner">
       <div class="grid-box">
         <div class="align-left">
-          <h1 class="global-header-title"><img class="header-icon" src="/media/images/springfield_logo.png" alt="City Logo"/><a href="/">City of Springfield</a></h1>
+          <h1 class="global-header-title"><a href="/">Broward Cultural Division</a></h1>
         </div>
         <div class="bar-menu global-header-menu align-right" role="navigation">
           <a href="#" class="menu-item">Services</a>
@@ -50,9 +51,9 @@ order: 2
       <div class="wrapper">
         <div class="template-article" role="main">
           <nav class="breadcrumbs" role="navigation">
-            <span class="breadcrumbs-item"><a href="/">Springfield</a></span>
-            <span class="breadcrumbs-item"><a href="/articles/public-safety/">Public Safety</a></span>
-            <span class="breadcrumbs-item"><a href="/articles/public-safety/emergency-services/">Emergency Services</a></span>
+            <span class="breadcrumbs-item"><a href="/">Cultural Division</a></span>
+            <span class="breadcrumbs-item"><a href="/articles/public-safety/">Breadcrumb 1</a></span>
+            <span class="breadcrumbs-item"><a href="/articles/public-safety/emergency-services/">Breadcrumb 2</a></span>
             <span class="breadcrumbs-item">Pattern Samples</span>
           </nav>
           <div class="grid-box">
@@ -207,13 +208,13 @@ order: 2
                     <footer class="global-footer" role="contentinfo">
                       <div class="grid-box">
                         <div class="grid-item width-one-fourth">
-                          <h1 class="global-footer-title h3"><img class="header-icon-large" src="/media/images/springfield_logo.png" alt="City Logo"/>City of Springfield</h1>
+                          <h1 class="global-footer-title h3"><img class="header-icon-large" src="/media/images/springfield_logo.png" alt="City Logo"/>Broward Cultural Division</h1>
                           <div class="address">
-                            <p>155 9th St.</p>
-                            <p>San Francisco, CA 94103</p>
-                            <p>(415)625-9633</p>
+                            <p>100 South Andrews Ave.</p>
+                            <p>Fort Lauderdale, FL 33301</p>
+                            <p>(954)357-7457</p>
                           </div>
-                          <p>© 2015 City of Springfield</p>
+                          <p>© 2015 Broward Cultural Division</p>
                         </div>
                         <div class="grid-item width-one-third shift-one-twelfth">
                           <div class="global-footer-social bar-menu">

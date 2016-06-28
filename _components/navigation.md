@@ -5,16 +5,16 @@ order: 4
 ---
 
 <p class="lead-in">These are major building blocks that should occur on almost every page of the site.</p>
-
+<!--
 ### Global Header
 
 This is the header that appears at the top of every page.
 
-<div class="preview">
+<div class="no-preview">
 	<header class="global-header">
 		<div class="grid-box">
 			<div class="align-left">
-			    <h1 class="global-header-title"><img class="header-icon" src="/media/images/springfield_logo.png"/><a href="/">City of {{ site.city }}</a></h1>
+			    <h1 class="global-header-title"><img class="header-icon" src="/media/images/springfield_logo.png"/><a href="/">{{ site.city }}</a></h1>
 			</div>
 			<div class="bar-menu global-header-menu align-right">
 				<a href="#" class="menu-item">Services</a>
@@ -40,7 +40,7 @@ This is the header that appears at the top of every page.
 
 This is the footer that appears at the bottom of every page.
 
-<div class="preview">
+<div class="no-preview">
 	<footer class="global-footer">
 	    <div class="grid-box">
 	        <div class="grid-item width-one-fourth">
@@ -89,7 +89,7 @@ This is the footer that appears at the bottom of every page.
 
 Breadcrumbs offer a contextual cue to where the user is in the site hierarchy. They are especially useful when users arrive at a page from a different website (e.g, Google) and provide a sense of context to where they are and allows them to quickly navigate to a different context if necessary.
 
-<div class="preview">
+<div class="no-preview">
 	<nav class="breadcrumbs">
 	    <span class="breadcrumbs-item"><a href="#">City</a></span>
 	    <span class="breadcrumbs-item"><a href="#">Service</a></span>
@@ -97,6 +97,7 @@ Breadcrumbs offer a contextual cue to where the user is in the site hierarchy. T
 	    <span class="breadcrumbs-item">Article Name</span>
 	 </nav>
 </div>
+-->
 
 ### Sidebar
 
@@ -117,14 +118,15 @@ Breadcrumbs offer a contextual cue to where the user is in the site hierarchy. T
 	    </ul>
 	 </div>
 </div>
-
+<!--
 ### Searchbar
 
 A default combinaton of a seach type input and a custom submit button used to globally search the site.
 
-<div class="preview">
+<div class="no-preview">
 	<form class="searchbar">
 	    <input class="searchbar-input" type="search" placeholder="e.g., pay a parking ticket">
 	    <button class="searchbar-button" type="submit"></button>
 	</form>
 </div>
+-->

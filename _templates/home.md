@@ -12,8 +12,6 @@ order: 0
   <script src="https://use.typekit.net/ruo2kru.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
   <link rel="stylesheet" href="/css/main.css">
-  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="canonical" href="//">
   <link rel="alternate" type="application/rss+xml" title="Chime Starter" href="//feed.xml" />
@@ -30,13 +28,13 @@ order: 0
     <header class="global-header" role="banner">
       <div class="grid-box">
         <div class="align-left">
-          <h1 class="global-header-title"><img class="header-icon" src="/media/images/springfield_logo.png" alt="City Logo"/><a href="/">City of Springfield</a></h1>
+          <h1 class="global-header-title"><a href="/">Broward Cultural Division</a></h1>
         </div>
         <div class="bar-menu global-header-menu align-right" role="navigation">
-          <a href="#" class="menu-item">Services</a>
-          <a href="#" class="menu-item">Announcements</a>
-          <a href="#" class="menu-item">Events</a>
-          <a href="#" class="menu-item">More</a>
+          <a href="#" class="menu-item">Grants</a>
+          <a href="#" class="menu-item">Public Art</a>
+          <a href="#" class="menu-item">Education</a>
+          <a href="#" class="menu-item">Marketing</a>
           <a href="#" class="menu-item js-search-button" title="Open search"><span class="fa fa-search"></span></a>
         </div>
       </div>
@@ -56,48 +54,36 @@ order: 0
             <div class="grid-box">
               <div class="width-one-whole panel">
                 <div class="grid-box">
-                  <form class="searchbar width-two-thirds" role="search">
-                    <input class="searchbar-input" type="search" placeholder="How can we help you?">
-                    <button class="searchbar-button" type="submit"></button>
-                  </form>
-                  <div class="hero-credits width-one-third">illustration by J.B. Ingwersen, 1960-1965</div>
+                  <div class="hero-credits width-one-third">Illustration by J.B. Ingwersen, 1960-1965</div>
                 </div>
                 <div class="grid-box">
                   <ul class="medium-menu grid-item width-one-third">
                     <a href="/articles/health-and-social-services/" class="menu-item">
-                      <h3>Health & Social Services</h3>
+                      <h3>Our Mission</h3>
                       <p class="detail-text">Including public hospitals, welfare initiatives, and homelessness services</p>
                     </a>  
                     <a href="/articles/licensing-permits/" class="menu-item">
-                      <h3>Licensing & Permits</h3>
+                      <h3>Grants</h3>
                       <p class="detail-text">including building, land use, commercial and residential zones, and life events.</p>
-                    </a>  
-                    <a href="/articles/parks-recreation/" class="menu-item">
-                      <h3>Parks & Recreation</h3>
-                      <p class="detail-text">including parks, playgrounds, theatres, libraries, and community centers</p>
-                    </a>  
+                    </a>   
                   </ul>
                   <ul class="medium-menu grid-item width-one-third">
                     <a href="/articles/education/" class="menu-item">
-                      <h3>Education</h3>
+                      <h3>Public Art</h3>
                       <p class="detail-text">including preschool, K-12, college, and continuing education</p>
                     </a>  
                     <a href="/articles/utilities-streets/" class="menu-item">
-                      <h3>Utilities & Environment</h3>
+                      <h3>Education & Advocacy</h3>
                       <p class="detail-text">including garbage, recycling, sewage and drains, water treatment, and animal control</p>
-                    </a>  
-                    <a href="/articles/policy-and-public-feedback/" class="menu-item">
-                      <h3>Policy &amp; Public Feedback</h3>
-                      <p class="detail-text">Including city council meetings and public record requests</p>
-                    </a>  
+                    </a>   
                   </ul>
                   <ul class="medium-menu grid-item width-one-third">
                     <a href="/articles/public-safety/" class="menu-item">
-                      <h3>Public Safety</h3>
+                      <h3>Marketing</h3>
                       <p class="detail-text">including corrections, crime, fire, emergencies, and community safety</p>
                     </a>  
                     <a href="/articles/transport/" class="menu-item">
-                      <h3>Driving, Transport, & Streets</h3>
+                      <h3>Events</h3>
                       <p class="detail-text">including public transportation, parking, sidewalks, driveways, and roads</p>
                     </a>  
                   </ul>
@@ -134,7 +120,7 @@ order: 0
           </div>
         </section>
         <section class="slab">
-          <h2>City Government</h2>
+          <h2>Quick Links</h2>
           <div class="grid-box panel">
             <div class="medium-menu grid-item width-one-third">
               <a href="#" class="menu-item">
@@ -183,13 +169,13 @@ order: 0
   <footer class="global-footer" role="contentinfo">
     <div class="grid-box">
       <div class="grid-item width-one-fourth">
-        <h1 class="global-footer-title h3"><img class="header-icon-large" src="/media/images/springfield_logo.png" alt="City Logo"/>City of Springfield</h1>
+        <h1 class="global-footer-title h3"><img class="header-icon-large" src="/media/images/springfield_logo.png" alt="City Logo"/>Broward Cultural Division</h1>
         <div class="address">
-          <p>155 9th St.</p>
-          <p>San Francisco, CA 94103</p>
-          <p>(415)625-9633</p>
+          <p>100 South Andrews Avenue</p>
+          <p>Fort Lauderdale, FL 33301</p>
+          <p>(954)357-7457</p>
         </div>
-        <p>© 2015 City of Springfield</p>
+        <p>© 2015 Broward Cultural Division</p>
       </div>
       <div class="grid-item width-one-third shift-one-twelfth">
         <div class="global-footer-social bar-menu">

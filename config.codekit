@@ -2802,61 +2802,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/media\/images\/hero_image.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.19953e+06,
-		"inputAbbreviatedPath": "\/_site\/media\/images\/hero_image.png",
-		"outputAbbreviatedPath": "\/_site\/media\/images\/hero_image.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/media\/images\/mayor.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24073,
-		"inputAbbreviatedPath": "\/_site\/media\/images\/mayor.png",
-		"outputAbbreviatedPath": "\/_site\/media\/images\/mayor.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/media\/images\/springfield_logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 30708,
-		"inputAbbreviatedPath": "\/_site\/media\/images\/springfield_logo.png",
-		"outputAbbreviatedPath": "\/_site\/media\/images\/springfield_logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/media\/images\/springfield_logo_bw.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5771,
-		"inputAbbreviatedPath": "\/_site\/media\/images\/springfield_logo_bw.png",
-		"outputAbbreviatedPath": "\/_site\/media\/images\/springfield_logo_bw.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/media\/images\/zero_waste.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93472,
-		"inputAbbreviatedPath": "\/_site\/media\/images\/zero_waste.png",
-		"outputAbbreviatedPath": "\/_site\/media\/images\/zero_waste.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/media\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2931,6 +2876,15 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/_templates\/home.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_templates\/home.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_templates\/home.md": {
 		"criticStyle": 0,
@@ -3090,61 +3044,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/media\/images\/hero_image.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.19953e+06,
-		"inputAbbreviatedPath": "\/media\/images\/hero_image.png",
-		"outputAbbreviatedPath": "\/media\/images\/hero_image.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/media\/images\/mayor.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24073,
-		"inputAbbreviatedPath": "\/media\/images\/mayor.png",
-		"outputAbbreviatedPath": "\/media\/images\/mayor.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/media\/images\/springfield_logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 30708,
-		"inputAbbreviatedPath": "\/media\/images\/springfield_logo.png",
-		"outputAbbreviatedPath": "\/media\/images\/springfield_logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/media\/images\/springfield_logo_bw.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5771,
-		"inputAbbreviatedPath": "\/media\/images\/springfield_logo_bw.png",
-		"outputAbbreviatedPath": "\/media\/images\/springfield_logo_bw.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/media\/images\/zero_waste.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93472,
-		"inputAbbreviatedPath": "\/media\/images\/zero_waste.png",
-		"outputAbbreviatedPath": "\/media\/images\/zero_waste.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		}
 	},
 "hooks": [
