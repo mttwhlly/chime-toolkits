@@ -34,6 +34,7 @@ order: 0
           <a href="#" class="menu-item">Grants</a>
           <a href="#" class="menu-item">Public Art</a>
           <a href="#" class="menu-item">Education</a>
+          <a href="#" class="menu-item">Advocacy</a>
           <a href="#" class="menu-item">Marketing</a>
           <a href="#" class="menu-item js-search-button" title="Open search"><span class="fa fa-search"></span></a>
         </div>
@@ -54,37 +55,37 @@ order: 0
             <div class="grid-box">
               <div class="width-one-whole panel">
                 <div class="grid-box">
-                  <div class="hero-credits width-one-third">Illustration by J.B. Ingwersen, 1960-1965</div>
+                <div class="hero-credits width-one-third"><em>Ocean's Footprints</em> Mural by Laura Atria</div>
                 </div>
                 <div class="grid-box">
                   <ul class="medium-menu grid-item width-one-third">
                     <a href="/articles/health-and-social-services/" class="menu-item">
-                      <h3>Our Mission</h3>
-                      <p class="detail-text">Including public hospitals, welfare initiatives, and homelessness services</p>
+                      <h3>Mission</h3>
+                      <p class="detail-text">Explore what the Cultural Division does for Broward County's community. </p>
                     </a>  
                     <a href="/articles/licensing-permits/" class="menu-item">
                       <h3>Grants</h3>
-                      <p class="detail-text">including building, land use, commercial and residential zones, and life events.</p>
+                      <p class="detail-text">Incentive Programs promoting the development of individuals, organizations & municipalities.</p>
                     </a>   
                   </ul>
                   <ul class="medium-menu grid-item width-one-third">
                     <a href="/articles/education/" class="menu-item">
                       <h3>Public Art</h3>
-                      <p class="detail-text">including preschool, K-12, college, and continuing education</p>
+                      <p class="detail-text">Dedication to enhancing architecture and urban spaces through the ideas and creations of visual artists.</p>
                     </a>  
                     <a href="/articles/utilities-streets/" class="menu-item">
-                      <h3>Education & Advocacy</h3>
-                      <p class="detail-text">including garbage, recycling, sewage and drains, water treatment, and animal control</p>
+                      <h3>Education</h3>
+                      <p class="detail-text">Including ArtsEd Forever, Education Directory, resources & more...</p>
                     </a>   
                   </ul>
                   <ul class="medium-menu grid-item width-one-third">
                     <a href="/articles/public-safety/" class="menu-item">
-                      <h3>Marketing</h3>
-                      <p class="detail-text">including corrections, crime, fire, emergencies, and community safety</p>
+                      <h3>Advocacy</h3>
+                      <p class="detail-text">Advocacy information, resources and more...</p>
                     </a>  
                     <a href="/articles/transport/" class="menu-item">
-                      <h3>Events</h3>
-                      <p class="detail-text">including public transportation, parking, sidewalks, driveways, and roads</p>
+                      <h3>Marketing</h3>
+                      <p class="detail-text">Including publications, newsletters and more...</p>
                     </a>  
                   </ul>
                 </div>

@@ -1,7 +1,7 @@
 .global-header {
 	@include clearfix();
 	background-color: $color-broward-blue;
-	border-bottom: 1px solid $color-grey-300;
+	border-bottom: 1px solid $color-broward-blue;
 	color: white;
 	padding: 1em $site-margins;
 	.menu-item:not(.js-search-button) {
