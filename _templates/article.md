@@ -61,7 +61,7 @@ order: 2
             <div class="width-one-fourth sidebar">
               <h2>People who viewed this page also viewed</h2>
               <ul class="sidebar-menu">
-                <li><a href="#">Example Article</a></li>    
+                <li><a href="#">Example Page Link</a></li>    
               </ul>
               <h2>This article is maintained by</h2>
               <ul class="sidebar-menu">

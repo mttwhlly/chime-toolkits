@@ -27,20 +27,21 @@ order: 1
   <div class="disclaimer">
     <p><b>This site is a working beta</b>. Information found here may be incomplete and inaccurate. <a href="">Learn more</a></p>
 </div>
-<header class="global-header" role="banner">
-    <div class="grid-box">
+    <header class="global-header" role="banner">
+      <div class="grid-box">
         <div class="align-left">
-            <h1 class="global-header-title"><img class="header-icon" src="/media/images/springfield_logo.png" alt="City Logo"/><a href="/">City of Springfield</a></h1>
+          <h1 class="global-header-title"><a href="/">Broward Cultural Division</a></h1>
         </div>
         <div class="bar-menu global-header-menu align-right" role="navigation">
-            <a href="#" class="menu-item">Services</a>
-            <a href="#" class="menu-item">Announcements</a>
-            <a href="#" class="menu-item">Events</a>
-            <a href="#" class="menu-item">More</a>
-            <a href="#" class="menu-item js-search-button" title="Open search"><span class="fa fa-search"></span></a>
+          <a href="#" class="menu-item">Grants</a>
+          <a href="#" class="menu-item">Public Art</a>
+          <a href="#" class="menu-item">Education</a>
+          <a href="#" class="menu-item">Advocacy</a>
+          <a href="#" class="menu-item">Marketing</a>
+          <a href="#" class="menu-item js-search-button" title="Open search"><span class="fa fa-search"></span></a>
         </div>
-    </div>
-</header>
+      </div>
+    </header>
 <div class="global-header-search">
     <form action="" class="searchbar" role="search">
         <input class="searchbar-input" type="search" placeholder="How can we help you?">
@@ -52,8 +53,8 @@ order: 1
       <div class="template-category" role="main">
           <header class="secondary-header">
               <nav class="breadcrumbs" role="navigation">
-                  <span class="breadcrumbs-item"><a href="/">Springfield</a></span>
-                  <span class="breadcrumbs-item">Public Safety</span>
+                  <span class="breadcrumbs-item"><a href="/">Broward Cultural Division</a></span>
+                  <span class="breadcrumbs-item">Public Art Directory</span>
               </nav>
           </header>
           <div class="grid-box">
@@ -66,7 +67,7 @@ order: 1
                           <a href="/articles/education/">Education</a>
                       </li>
                       <li class="is-selected">
-                          <a href="/articles/public-safety/">Public Safety</a>
+                          <a href="/articles/public-safety/">Public Art</a>
                           <ul class="sidebar-menu-sublist">
                               <li class=""><a href="/articles/public-safety/emergency-services/">Emergency Services</a></li>
                               <li class=""><a href="/articles/public-safety/report-an-issue-or-crime/">Safety and Crime</a></li>
@@ -91,7 +92,7 @@ order: 1
               </div>
               <div class="grid-item width-seven-twelfths shift-one-twelfth">
                   <header class="content-header">
-                      <h1>Public Safety</h1>
+                      <h1>Public Art</h1>
                   </header>
                   <div class="large-menu">
                       <a class="menu-item" href="/articles/public-safety/emergency-services/" >
@@ -110,44 +111,40 @@ order: 1
 </div>
 <footer class="global-footer" role="contentinfo">
   <div class="grid-box">
-      <div class="grid-item width-one-fourth">
-        <h1 class="global-footer-title h3"><img class="header-icon-large" src="/media/images/springfield_logo.png" alt="City Logo"/>City of Springfield</h1>
-        <div class="address">
-          <p>155 9th St.</p>
-          <p>San Francisco, CA 94103</p>
-          <p>(415)625-9633</p>
+    <div class="grid-item width-one-fourth">
+      <h1 class="global-footer-title h3">Broward Cultural Division</h1>
+      <div class="address">
+        <p>100 South Andrews Ave.</p>
+        <p>Fort Lauderdale, FL 33301</p>
       </div>
-      <p>© 2015 City of Springfield</p>
+    </div>
+    <div class="grid-item width-one-third shift-one-twelfth">
+
+      <div class="global-footer-nav grid-box">
+        <div class="menu grid-item width-one-half">
+          <a href="" class="menu-item">Grants</a>      
+          <a href="" class="menu-item">Public Art</a>
+          <a href="" class="menu-item">Education</a>
+          <a href="" class="menu-item">Advocacy</a>
+        </div>
+        <div class="menu grid-item width-one-half">
+          <a href="" class="menu-item">Mission</a>
+          <a href="" class="menu-item">Marketing</a>
+          <a href="" class="menu-item">Newsletters</a>
+          <a href="" class="menu-item">Give Feedback</a>
+        </div>
+      </div>
+    </div>
+    <div class="global-footer-mayor width-one-fourth shift-one-twelfth">Stay Connected<br><br>
+        <div class="global-footer-social bar-menu">
+        <a class="menu-item" href="#"><span class="fa fa-twitter"></span></a>   
+        <a class="menu-item" href="#"><span class="fa fa-facebook-official"></span></a>
+        <a class="menu-item" href="#"><span class="fa fa-youtube"></span></a>
+        <a class="menu-item" href="#"><span class="fa fa-linkedin"></span></a>
+      </div>
+      <p><span class="fa fa-phone"></span> (954) 357-7457</p>
+    </div>
   </div>
-  <div class="grid-item width-one-third shift-one-twelfth">
-    <div class="global-footer-social bar-menu">
-      <a class="menu-item" href="#"><span class="fa fa-facebook-official"></span></a>   
-      <a class="menu-item" href="#"><span class="fa fa-twitter"></span></a>
-      <a class="menu-item" href="#"><span class="fa fa-envelope"></span></a>
-  </div>
-  <div class="global-footer-nav grid-box">
-    <div class="menu grid-item width-one-half">
-      <a href="" class="menu-item">Services</a>      
-      <a href="" class="menu-item">Initiatives</a>
-      <a href="" class="menu-item">Announcements</a>
-      <a href="" class="menu-item">Departments</a>
-  </div>
-  <div class="menu grid-item width-one-half">
-      <a href="" class="menu-item">Jobs</a>
-      <a href="" class="menu-item">Events</a>
-      <a href="" class="menu-item">Records</a>
-      <a href="" class="menu-item">Give Feedback</a>
-  </div>
-</div>
-</div>
-<div class="global-footer-mayor width-one-fourth shift-one-twelfth">
-  <a href="#" class="menu-item">
-      <img class="global-footer-mayor-image" src="/media/images/mayor.png" alt="Portrait of the mayor">
-      <p><b>Our Mayor: Jen Pahlka</b></p>
-      <p>Vist the mayor's page</p>
-  </a>
-</div>
-</div>
 </footer>
       <!--[if lt IE 9]>
         <script src="/js/rem.min.js"></script>
