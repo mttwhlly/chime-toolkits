@@ -1,13 +1,14 @@
 .global-footer {
-	background-color: $color-grey-100;
+	background-color: $color-marine-blue;
 	border-top: 1px solid $color-grey-300;
 	margin-top: 4em;
 	padding: 2em $site-margins;
 	font-size: $small-font-size;
-	color: $color-grey-600;
+	color: $color-grey-100;
 
 	.global-footer-title {
-		margin-bottom: 2em;
+		margin-bottom: 1.4em;
+        color: $color-grey-100;
 	}
 
 	p {
@@ -19,7 +20,7 @@
 		a {
 			font-size: $h2-font-size;
 			text-decoration: none;
-			color: $color-grey-700;
+			color: $color-grey-100;
 			margin-right: .5em;
 		}
 	}

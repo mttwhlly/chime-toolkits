@@ -3,7 +3,7 @@ title: Article
 order: 2
 ---
 <head>
-  <title>Pattern Samples | Chime Starter</title>
+  <title>Pattern Samples | Broward Cultural Division</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -33,10 +33,11 @@ order: 2
           <h1 class="global-header-title"><a href="/">Broward Cultural Division</a></h1>
         </div>
         <div class="bar-menu global-header-menu align-right" role="navigation">
-          <a href="#" class="menu-item">Services</a>
-          <a href="#" class="menu-item">Announcements</a>
-          <a href="#" class="menu-item">Events</a>
-          <a href="#" class="menu-item">More</a>
+          <a href="#" class="menu-item">Grants</a>
+          <a href="#" class="menu-item">Public Art</a>
+          <a href="#" class="menu-item">Education</a>
+          <a href="#" class="menu-item">Advocacy</a>
+          <a href="#" class="menu-item">Marketing</a>
           <a href="#" class="menu-item js-search-button" title="Open search"><span class="fa fa-search"></span></a>
         </div>
       </div>
@@ -64,16 +65,16 @@ order: 2
               </ul>
               <h2>This article is maintained by</h2>
               <ul class="sidebar-menu">
-                <li><a href="#">Public Works</a></li>    
-                <li><a href="#">Permitting</a></li>
+                <li><a href="#">Grants</a></li>    
+                <li><a href="#">Marketing</a></li>
               </ul>
             </div>
             <article class="article-content width-two-thirds shift-one-twelfth">
               <header class="content-header">
                 <h1>Pattern Samples</h1>
               </header>
-              <p class="lead-in">A Certificate of Occupancy is a legal document that indicates that you can use your building or space legally. It makes sure that your space meets safety and other requirements. You will need a Certificate of Occupancy before registering for a business license with the City.</p>
-              <p><a href="#" class="button button-primary button-large">Start the certificate of occupancy form</a></p>
+              <p class="lead-in">The Cultural Division offers a variety of Incentive Programs designed to promote the development of Broward-based not-for-profit cultural organizations, municipalities and not-for-profit agencies that sponsor art activities and enhance the cultural environment of the people of Broward County.</p>
+              <p><a href="#" class="button button-primary button-large">Start the Application Process</a></p>
               <h1 id="heading-level-1">Heading Level 1</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi rerum, consequuntur natus error eligendi, mollitia reprehenderit nemo. Unde praesentium quibusdam, fugiat impedit ullam voluptas eaque reprehenderit numquam, omnis corrupti in.</p>
               <h2 id="heading-level-2">Heading Level 2</h2>
@@ -167,12 +168,12 @@ order: 2
                 <div class="grid-item ">
                   One Whole
                 </div>
-                <div class="grid-item ">One Half</div>
-                <div class="grid-item  end-row">One Half</div>
-                <div class="grid-item ">One Third</div>
-                <div class="grid-item  end-row">Two Thirds</div>
-                <div class="grid-item ">One Fourth</div>
-                <div class="grid-item ">Three Fourths</div>
+                <div class="grid-item width-one-half">One Half</div>
+                <div class="grid-item width-one-half end-row">One Half</div>
+                <div class="grid-item width-one-third">One Third</div>
+                <div class="grid-item width-two-thirds end-row">Two Thirds</div>
+                <div class="grid-item width-one-fourth">One Fourth</div>
+                <div class="grid-item width-three-fourths end-row">Three Fourths</div>
               </div>
               <h1 id="forms">Forms</h1>
               <p><label for="">Input Type Text</label>
@@ -208,41 +209,37 @@ order: 2
                     <footer class="global-footer" role="contentinfo">
                       <div class="grid-box">
                         <div class="grid-item width-one-fourth">
-                          <h1 class="global-footer-title h3"><img class="header-icon-large" src="/media/images/springfield_logo.png" alt="City Logo"/>Broward Cultural Division</h1>
+                          <h1 class="global-footer-title h3">Broward Cultural Division</h1>
                           <div class="address">
                             <p>100 South Andrews Ave.</p>
                             <p>Fort Lauderdale, FL 33301</p>
-                            <p>(954)357-7457</p>
                           </div>
-                          <p>© 2015 Broward Cultural Division</p>
                         </div>
                         <div class="grid-item width-one-third shift-one-twelfth">
-                          <div class="global-footer-social bar-menu">
-                            <a class="menu-item" href="#"><span class="fa fa-facebook-official"></span></a>   
-                            <a class="menu-item" href="#"><span class="fa fa-twitter"></span></a>
-                            <a class="menu-item" href="#"><span class="fa fa-envelope"></span></a>
-                          </div>
+
                           <div class="global-footer-nav grid-box">
                             <div class="menu grid-item width-one-half">
-                              <a href="" class="menu-item">Services</a>      
-                              <a href="" class="menu-item">Initiatives</a>
-                              <a href="" class="menu-item">Announcements</a>
-                              <a href="" class="menu-item">Departments</a>
+                              <a href="" class="menu-item">Grants</a>      
+                              <a href="" class="menu-item">Public Art</a>
+                              <a href="" class="menu-item">Education</a>
+                              <a href="" class="menu-item">Advocacy</a>
                             </div>
                             <div class="menu grid-item width-one-half">
-                              <a href="" class="menu-item">Jobs</a>
-                              <a href="" class="menu-item">Events</a>
-                              <a href="" class="menu-item">Records</a>
+                              <a href="" class="menu-item">Mission</a>
+                              <a href="" class="menu-item">Marketing</a>
+                              <a href="" class="menu-item">Newsletters</a>
                               <a href="" class="menu-item">Give Feedback</a>
                             </div>
                           </div>
                         </div>
-                        <div class="global-footer-mayor width-one-fourth shift-one-twelfth">
-                          <a href="#" class="menu-item">
-                            <img class="global-footer-mayor-image" src="/media/images/mayor.png" alt="Portrait of the mayor">
-                            <p><b>Our Mayor: Jen Pahlka</b></p>
-                            <p>Vist the mayor's page</p>
-                          </a>
+                        <div class="global-footer-mayor width-one-fourth shift-one-twelfth">Stay Connected<br><br>
+                            <div class="global-footer-social bar-menu">
+                            <a class="menu-item" href="#"><span class="fa fa-twitter"></span></a>   
+                            <a class="menu-item" href="#"><span class="fa fa-facebook-official"></span></a>
+                            <a class="menu-item" href="#"><span class="fa fa-youtube"></span></a>
+                            <a class="menu-item" href="#"><span class="fa fa-linkedin"></span></a>
+                          </div>
+                          <p><span class="fa fa-phone"></span> (954) 357-7457</p>
                         </div>
                       </div>
                     </footer>
