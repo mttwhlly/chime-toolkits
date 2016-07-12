@@ -1,6 +1,8 @@
 blockquote {
-	padding: 0 2em;
-	border-left: 4px solid $color-grey-300;
+	padding: 0 1em;
+	border-left: 3px solid $color-grey-300;
+    font-family: $font-sans;
     font-style: italic;
-    letter-spacing: .5px;
+    text-transform: uppercase;
+    line-height: 1.5em;
 }
