@@ -22,7 +22,7 @@ collections:
     output: true
 email: mttwhlly@icloud.com
 description: "A Component Library for Broward Cultural Division Website \n"
-baseurl: ''
+baseurl: 
 url: "/"
 permalink: "/:categories/:title/"
 city: Broward Arts
