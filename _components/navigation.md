@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Site Navigation
+layout: styleguide
 order: 4
 ---
 

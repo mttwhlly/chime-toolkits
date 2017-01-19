@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Contributing
+layout: styleguide
 order: 2
 ---
 

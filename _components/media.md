@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Media
+layout: styleguide
 order: 4
 ---
 

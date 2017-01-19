@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Slabs
+layout: styleguide
 order: 7
 ---
 

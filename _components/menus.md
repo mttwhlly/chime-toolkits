@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Menus
+layout: styleguide
 order: 5
 ---
 

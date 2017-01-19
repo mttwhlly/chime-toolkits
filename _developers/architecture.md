@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: CSS Architecture
+layout: styleguide
 order: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Alerts
+layout: styleguide
 order: 6
 ---
 

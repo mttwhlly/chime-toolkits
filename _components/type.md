@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Typography
+layout: styleguide
 order: 1
 ---
 

@@ -2,6 +2,7 @@
 title: Article
 order: 2
 ---
+
 <head>
   <title>Pattern Samples | Broward Arts</title>
   <meta charset="utf-8">

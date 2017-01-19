@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Colors
+layout: styleguide
 order: 2
 ---
 

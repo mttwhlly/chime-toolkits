@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Grid System
+layout: styleguide
 order: 0
 ---
 

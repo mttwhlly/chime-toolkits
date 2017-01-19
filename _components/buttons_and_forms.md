@@ -1,6 +1,6 @@
 ---
-layout: styleguide
 title: Buttons and Forms
+layout: styleguide
 order: 3
 ---
 

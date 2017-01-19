@@ -1,23 +1,29 @@
-# Site settings
+---
 title: Cultural Division Component Library
-email: mttwhlly@icloud.com
-description: >
-  A Component Library for Broward Cultural Division Website 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "/" # the base hostname & protocol for your site
-permalink: /:categories/:title/
-city: "Broward Arts"
-
-# Build settings
-markdown: kramdown
-
+timezone: UTC
 collections:
   components:
+    title: Components
     output: true
-    permalink: /:path/
-  templates:
-    output: true
-    permalink: /:path/
+    permalink: "/:path/"
   developers:
+    title: Developers
     output: true
-    permalink: /:path/
+    permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
+  templates:
+    title: Templates
+    output: true
+    permalink: "/:path/"
+  uploads:
+    title: Uploads
+    output: true
+email: mttwhlly@icloud.com
+description: "A Component Library for Broward Cultural Division Website \n"
+baseurl: ''
+url: "/"
+permalink: "/:categories/:title/"
+city: Broward Arts
+markdown: kramdown
