@@ -31,7 +31,7 @@ order: 0
     <header class="global-header" role="banner">
       <div class="grid-box">
         <div class="align-left">
-          <h1 class="global-header-title"><a href="/">Broward Arts Annual Report 2015</a></h1>
+          <h1 class="global-header-title"><a href="/">Broward Arts Annual Report 2016</a></h1>
         </div>
         <div class="bar-menu global-header-menu align-right" role="navigation">
           <a href="#" class="menu-item">Grants</a>

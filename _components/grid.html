@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="layout" content="styleguide"/>
+	<title>Grid System</title>
+	<meta name="order" content="0"/>
+</head>
+<body>
+
+<p class="lead-in">Use the grid system to build the layout of custom page templates.</p>
+
+<p>The grid system is based off of the <a href="http://neat.bourbon.io/">Neat</a> framework by <a href="https://thoughtbot.com/">Thoughtbot</a>. Width classes are provided to quickly build basic grid layouts that default to 100% width on mobile widths. For nested grids or more nuanced responsiveness, use the build in Neat Sass mixins.</p>
+
+<div class="grid-box">
+    <div class="grid-item width-one-half">
+        <p><code>.width-one-half</code></p>
+        <p><code>.width-one-third</code></p>
+        <p><code>.width-two-thirds</code></p>
+        <p><code>.width-one-fourth</code></p>
+        <p><code>.width-three-fourths</code></p>
+        <p><code>.width-one-six</code></p>
+    </div>
+    <div class="grid-item width-one-half">
+        <p><code>.width-five-sixths</code></p>
+        <p><code>.width-one-twelfth</code></p>
+        <p><code>.width-five-twelfths</code></p>
+        <p><code>.width-seven-twelfths</code></p>
+        <p><code>.width-eleven-twelfths</code></p>
+    </div>
+</div>
+
+<h2 id="examplegridbox">Example Grid Box</h2>
+
+<div class="preview">
+    <div class="grid-box grid-box-example">
+        <div class="grid-item width-one-third">One Third</div>
+        <div class="grid-item width-two-thirds">Two Thirds</div>
+    </div>
+</div>
+
+<h2 id="examplegridboxusingshiftclasses">Example Grid Box Using Shift Classes</h2>
+
+<div class="preview">
+    <div class="grid-box grid-box-example">
+        <div class="grid-item width-two-thirds shift-one-third">Two Thirds (Shifted One Third)</div>
+    </div>
+</div>
+
+<h2 id="examplegridboxwithmultiplerows">Example Grid Box with Multiple Rows</h2>
+
+<div class="preview">
+    <div class="grid-box grid-box-example">
+        <div class="grid-item width-one-whole">One Whole</div>
+        <div class="grid-item width-one-half">One Half</div>
+        <div class="grid-item width-one-half end-row">One Half</div>
+        <div class="grid-item width-one-third">One Third</div>
+        <div class="grid-item width-two-thirds end-row">Two Thirds</div>
+        <div class="grid-item width-one-fourth">One Fourth</div>
+        <div class="grid-item width-three-fourths">Three Fourths</div>
+    </div>
+</div>
+
+<h3 id="notes">Notes</h3>
+
+<ol>
+<li><p>Generally, fractional widths of all grid items within a grid box should add up to one complete row. If whitespace is needed within a row, <code>shift</code> classes are available to add whitespace to the left of a grid item.</p></li>
+<li><p>If a grid box needs to contain more than one row, the class <code>.end-row</code> is required on the last item of each row.</p></li>
+</ol>
+
+</body>
+</html>

@@ -4,7 +4,7 @@ layout: styleguide
 order: 0
 ---
 
-<p class="lead-in">Use the grid system to build the layout of custom page templates</p>
+<p class="lead-in">Use the grid system to build the layout of custom page templates.</p>
 
 The grid system is based off of the [Neat](http://neat.bourbon.io/) framework by [Thoughtbot](https://thoughtbot.com/). Width classes are provided to quickly build basic grid layouts that default to 100% width on mobile widths. For nested grids or more nuanced responsiveness, use the build in Neat Sass mixins.
 

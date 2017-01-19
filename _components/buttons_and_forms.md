@@ -4,7 +4,7 @@ layout: styleguide
 order: 3
 ---
 
-<p class="lead-in">Buttons and forms are the building blocks of transactional interactions with your residents.</p>
+<p class="lead-in">Buttons and forms are the building blocks of transactional interactions with users.</p>
 
 # Buttons
 
